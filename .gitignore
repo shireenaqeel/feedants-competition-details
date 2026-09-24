@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+# Assignment brief (company material) and local demo recording tooling
+Feedants_Full_Stack_Development_Internship_Technical_Assignment.pdf
+Objective_Page.png
+demo/
