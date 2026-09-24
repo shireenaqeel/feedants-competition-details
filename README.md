@@ -1,5 +1,7 @@
 # Feedants: Competition Details
 
+**▶ [Watch the demo video (4 min)](https://drive.google.com/file/d/1qSvXxC1tLQBG2Hgd7WFtL8oonP5Yx0r4/view?usp=sharing)**
+
 A working, full-stack **Competition Details** screen for the Feedants mobile app. Every value on the screen comes from the API. Users can register, pay, upload a submission and switch between English and Hindi, and the booking flow stays consistent when many users register at once.
 
 | Layer | Tech |
