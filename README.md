@@ -1,6 +1,12 @@
 # Feedants: Competition Details
 
-**▶ [Watch the demo video (4 min)](https://drive.google.com/file/d/1qSvXxC1tLQBG2Hgd7WFtL8oonP5Yx0r4/view?usp=sharing)**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qSvXxC1tLQBG2Hgd7WFtL8oonP5Yx0r4/view?usp=sharing">
+    <img src="docs/demo-preview.gif" width="280" alt="Demo preview: competition details, Hindi switch, register, pay and upload" />
+  </a>
+  <br />
+  <b>▶ <a href="https://drive.google.com/file/d/1qSvXxC1tLQBG2Hgd7WFtL8oonP5Yx0r4/view?usp=sharing">Watch the full demo video (4 min)</a></b>
+</p>
 
 A working, full-stack **Competition Details** screen for the Feedants mobile app. Every value on the screen comes from the API. Users can register, pay, upload a submission and switch between English and Hindi, and the booking flow stays consistent when many users register at once.
 
